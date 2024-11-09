@@ -1,0 +1,14 @@
+{
+  "name": "pipeline-ci-cd",
+  "version": "1.0.0",
+  "description": "Proyecto de CI/CD para pipeline de automatización",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",        
+    "build": "echo 'Construyendo el proyecto...'"  
+  },
+  "dependencies": {
+    
+  }
+}
+
